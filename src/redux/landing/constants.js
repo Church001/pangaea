@@ -1,0 +1,2 @@
+
+export const STORE_ALL_PRODUCTS = "STORE_ALL_PRODUCTS";

@@ -1,0 +1,9 @@
+export const STORE_ALL_CURRENCIES = "STORE_ALL_CURRENCIES";
+
+export const SELECT_CURRENCY = "SELECT_CURRENCY";
+
+export const UPDATE_CART_ITEMS = "UPDATE_CART_ITEMS";
+
+export const OPEN_CART = "OPEN_CART";
+
+export const CLOSE_CART = "CLOSE_CART";
